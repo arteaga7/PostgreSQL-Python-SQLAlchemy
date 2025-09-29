@@ -1,4 +1,4 @@
-# postgreSQL-Python
+# PostgreSQL-Python-SQLAlchemy
 This repository contains the following files:
 
 • **sql_report.ipynb**: A Jupyter Notebook that shows how to connect to a PostgreSQL database to perform some SQL queries to answer specific questions. How to upload a data base to the cloud (in "render.com") and how to install "PostgreSQL" VSCode extension to perform SQL queries are also shown.
