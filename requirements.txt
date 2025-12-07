@@ -3,3 +3,6 @@ sqlalchemy
 ipykernel
 pillow
 matplotlib
+pyodbc
+openpyxl
+python-dotenv

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 '''This script connects to a PostgreSQL database, make a query by using a python variable,
 retrieves data from a table, and appends new data to it.
 
@@ -20,7 +22,7 @@ DROP TABLE table_1;
 
 # Import libraries
 import pandas as pd
-from sqlalchemy import create_engine
+from postgreSQL_sqlalchemy_example import create_engine
 
 # Define the parameters to connect to the database
 db_config = {'user': 'tony',
